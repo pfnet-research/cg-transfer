@@ -7,11 +7,11 @@ This repository contains the code to generate synthetic images, the results for 
 
 ## Generation of Synthetic Images
 
-To generate synthetic images/annotations we used in the experiments, see `rendering` directory.
+To generate synthetic images/annotations we used in the experiments, see [rendering](./rendering) directory.
 
 ## Results
 
-To check the accuracy scores of various pre-training/fine-tuning task pairs, see `results` directory. 
+To check the accuracy scores of various pre-training/fine-tuning task pairs, see [results](./results) directory. 
 
 ## Pre-trained Models
 
