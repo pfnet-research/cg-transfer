@@ -15,7 +15,13 @@ To check the accuracy scores of various pre-training/fine-tuning task pairs, see
 
 ## Pre-trained Models
 
-You can download pre-trained models here:
+You can download pre-trained models. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [results](./results) for more details), and `# of examples` means the size of the dataset. 
 
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
+|task 	|data  	|# of examples  	|model   	|
+|---	|----	|---	|---	|
+|object detection	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
+|multiclass classification	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
+|surface normal estimation	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
+|semantic segmentation	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
+
 
