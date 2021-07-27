@@ -7,6 +7,8 @@ This repository contains the code to generate synthetic images, the results for 
 
 ## Generation of Synthetic Images
 
+![image](https://media.github.pfidev.jp/user/285/files/e531d500-ef81-11eb-8fe5-ca07a487dbbf)
+
 To generate synthetic images/annotations we used in the experiments, see [rendering](./rendering) directory.
 
 ## Results
