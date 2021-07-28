@@ -17,7 +17,7 @@ To check the accuracy scores of various pre-training/fine-tuning task pairs, see
 
 ## Pre-trained Models
 
-You can download pre-trained models. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [results](./results) for more details), and `# of examples` means the size of the dataset. 
+You can download pre-trained models. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [rendering](./rendering) for more details), and `# of examples` means the size of the dataset. 
 
 |task 	|data  	|# of examples  	|model   	|
 |---	|----	|---	|---	|
