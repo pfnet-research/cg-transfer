@@ -1,3 +1,7 @@
+# Rendering
+
+This code is based on [BlenderProc](https://github.com/DLR-RM/BlenderProc).
+
 ## Requirements
 
 * [pftaskqueue](https://github.com/pfnet-research/pftaskqueue) and its backend (e.g., Redis)
