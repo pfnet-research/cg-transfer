@@ -17,13 +17,13 @@ To check the accuracy scores of various pre-training/fine-tuning task pairs, see
 
 ## Pre-trained Models
 
-You can download pre-trained models. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [rendering](./rendering) for more details), and `# of examples` means the size of the dataset. 
+You can download pre-trained models. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [rendering](./rendering) for more details), and `# of examples` means the size of the dataset. All the pre-trained models are compatible with `resnetxx` of [torchvision](https://pytorch.org/vision/stable/index.html).
 
-|task 	|data  	|# of examples  	|model   	|
-|---	|----	|---	|---	|
-|object detection	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
-|multiclass classification	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
-|surface normal estimation	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
-|semantic segmentation	|bop 	|64k   	|[download](https://drive.google.com/mymodel.pth)  	|
+|task 	|data  	|# of examples  	|backbone   	|download   	|
+|---	|----	|---	|---	|---	|
+|object detection	          |bop 	|64k   	|ResNet50 |[link](https://drive.google.com/mymodel.pth)  	|
+|multiclass classification	|bop 	|64k   	|ResNet50 |[link](https://drive.google.com/mymodel.pth)  	|
+|surface normal estimation	|bop 	|64k   	|ResNet50 |[link](https://drive.google.com/mymodel.pth)  	|
+|semantic segmentation	    |bop 	|64k   	|ResNet50 |[link](https://drive.google.com/mymodel.pth)  	|
 
 
