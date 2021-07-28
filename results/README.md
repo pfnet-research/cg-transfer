@@ -16,7 +16,7 @@ To run Jupyter notebook, you need the following R libraries: `repr`, `tidyverse`
 - `ftask`: Fine-tuning task.
 - `model`: Model name (e.g. `r50` means ResNet50).
 - `nparam`: The number of parameters of the model.
-- `pdata`: Dataset used for pre-training.
+- `pdata`: Dataset name used for pre-training; see [rendering](../rendering) for more details.
 
 `results_pretrain.csv` contains the results at pre-training. 
 
