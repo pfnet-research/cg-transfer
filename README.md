@@ -26,4 +26,4 @@ We provide pre-trained models (backbone networks). Here, `task` means the pre-tr
 |surface normal estimation	|bop 	|64k   	|ResNet50 |N/A  	|
 |semantic segmentation	    |bop 	|64k   	|ResNet50 |N/A  	|
 
-Due to the filesize, we cannot put the download links here. If you are interested in, 
+Due to the filesize, we cannot put the download links here. If you are interested in, please let [me](mailto:hayasick@preferred.jp) know.
