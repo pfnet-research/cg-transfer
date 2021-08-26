@@ -19,5 +19,5 @@ $ docker run -v <path to bop dataset and texture>:/tmp/bop-datasets/ -v job:/job
 
 You can choose the type of a dataset by specifying `<level>` option, where `<level>` can be `lv0`--`lv7`. Examples are shown below. 
 
-![image](https://media.github.pfidev.jp/user/285/files/4e194d00-ef82-11eb-87e0-6d0f8ccc4f03)
-![image](https://media.github.pfidev.jp/user/285/files/5ffaf000-ef82-11eb-9bc9-c5b20dd00ca0)
+![image](https://user-images.githubusercontent.com/482519/130919987-9ef136bc-8a55-4e64-bb47-f01e388f1c4a.png)
+![image](https://user-images.githubusercontent.com/482519/130920105-b569cb29-4b1a-4772-b78e-01cc85d4f059.png)
