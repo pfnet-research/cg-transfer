@@ -1,6 +1,6 @@
 # A Scaling Law for Synthetic-to-Real Transfer: A Measure of Pre-Training
 
-This repository is the official implementation of [A Scaling Law for Synthetic-to-Real Transfer: A Measure of Pre-Training](https://arxiv.org/abs/xxxx). 
+This repository is the official implementation of [A Scaling Law for Synthetic-to-Real Transfer: A Measure of Pre-Training](http://arxiv.org/abs/2108.11018). 
 
 This repository contains the code to generate synthetic images, the results for reproducing the plots, and pre-trained models. 
 
@@ -17,7 +17,7 @@ To check the accuracy scores of various pre-training/fine-tuning task pairs, see
 
 ## Pre-trained Models
 
-We provide pre-trained models (backbone networks). Here, `task` means the pre-training task, `data` means the pre-training dataset (see [rendering](./rendering) for more details), and `# of examples` means the size of the dataset. All the pre-trained models are compatible with `resnetxx` of [torchvision](https://pytorch.org/vision/stable/index.html).
+We provide pre-trained backbone networks used in the paper. Here, `task` means the pre-training task, `data` means the pre-training dataset (see [rendering](./rendering) for more details), and `# of examples` means the size of the dataset. All the pre-trained models are compatible with `resnetxx` of [torchvision](https://pytorch.org/vision/stable/index.html).
 
 |task 	|data  	|# of examples  	|backbone   	|download   	|
 |---	|----	|---	|---	|---	|
