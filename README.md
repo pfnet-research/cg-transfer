@@ -27,3 +27,15 @@ We provide pre-trained backbone networks used in the paper. Here, `task` means t
 |semantic segmentation	    |bop 	|64k   	|ResNet50 |N/A  	|
 
 Due to the filesize, we cannot put the download links here. If you are interested in, please let [me](mailto:hayasick@preferred.jp) know.
+
+## Citation
+
+If you cite our work, please use the following bibtex entry.
+```
+@article{mikami2021a,
+    title={A Scaling Law for Synthetic-to-Real Transfer: A Measure of Pre-Training},
+    author={Hiroaki Mikami and Kenji Fukumizu and Shogo Murai and Shuji Suzuki and Yuta Kikuchi and Taiji Suzuki and Shin-ichi Maeda and Kohei Hayashi},
+    year={2021},
+    journal={arXiv preprint arXiv:2108.11018}
+}
+```
